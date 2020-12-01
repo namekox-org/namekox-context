@@ -26,6 +26,12 @@ class Ping(object):
 ```
 
 # Running
+> config.yaml
+```yaml
+WEBSERVER:
+  host: 0.0.0.0
+  port: 80
+```
 > namekox run ping
 ```shell script
 2020-12-01 14:25:00,878 DEBUG load container class from namekox_core.core.service.container:ServiceContainer
