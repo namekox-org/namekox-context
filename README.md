@@ -62,10 +62,9 @@ WEBSERVER:
     "errs": "",
     "code": "Request:Success",
     "data": {
-        "call_id_stack": [
-            "3045d4f3-121c-44e0-a6b3-af4f9621a99d"
-        ]
+        "parent_call_id": null,
+        "call_id": "c76e5230-4a7b-4712-b03b-18f5070a115e"
     },
-    "call_id": "3045d4f3-121c-44e0-a6b3-af4f9621a99d"
+    "call_id": "c76e5230-4a7b-4712-b03b-18f5070a115e"
 }
 ```
